@@ -17,8 +17,8 @@ body {
 #imagem{
     height: 150px;
     width: 150px ;
-    padding: 5px; 
-    margin: 5px;
+    padding: 8px; 
+    margin: 8px;
     border:2px groove #030222;
     border-radius: 20px;
 
